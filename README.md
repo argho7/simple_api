@@ -5,7 +5,9 @@ Features :
   2) Add, View, Remove, Update Book Authors
 
 Dependency :
-  1) Django==6.0
+  1) Django
   2) DjangoRestFramework (DRF)
 
 <a href="/requirements.txt"> Click here for REQUREMENTS.txt<a>
+
+<marquee>Under development</marquee>
