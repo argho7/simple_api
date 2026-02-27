@@ -8,4 +8,4 @@ Dependency :
   1) Django==6.0
   2) DjangoRestFramework (DRF)
 
-<a href="https://github.com/argh012/simple_api/blob/main/requirements.txt"> Click here for REQUREMENTS.txt<a>
+<a href="blob/main/requirements.txt"> Click here for REQUREMENTS.txt<a>
